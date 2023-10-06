@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "746921891292",
+    "firebase_url": "https://videoplayer-a7b95-default-rtdb.firebaseio.com",
+    "project_id": "videoplayer-a7b95",
+    "storage_bucket": "videoplayer-a7b95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746921891292:android:712fe00eb3563326d6ab19",
+        "android_client_info": {
+          "package_name": "io.gucci.videoplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746921891292-f4ndbr3c75c0n4u260g624v6nruvk80r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.gucci.videoplayer",
+            "certificate_hash": "b8cceeacdf7946047807a4a6363f78f7c495f6a4"
+          }
+        },
+        {
+          "client_id": "746921891292-tricifveei7blggm0uk6j6h79nfgervq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqsnmAkxpTQXXSwcebuYgTRb8lQFoXn1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746921891292-tricifveei7blggm0uk6j6h79nfgervq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

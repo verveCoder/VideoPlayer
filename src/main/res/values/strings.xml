@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Video Player</string>
+    <string name="image">image</string>
+    <string name="video_name">Video Name</string>
+    <string name="duration">00:00</string>
+    <string name="video_size">Video size</string>
+    <string name="total_videos">Total Videos:</string>
+    <string name="download">Download</string>
+</resources>
